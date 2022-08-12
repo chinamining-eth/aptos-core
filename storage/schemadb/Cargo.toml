@@ -19,7 +19,7 @@ aptos-metrics = { path = "../../crates/aptos-metrics" }
 aptos-workspace-hack = { path = "../../crates/aptos-workspace-hack" }
 
 [dependencies.rocksdb]
-version = "0.17.0"
+version = "0.19.0"
 default-features = false
 features = ["lz4"]
 
